@@ -16,7 +16,7 @@ html {
 
 .header {
     height: 769px;
-    background: url(png/bg.png);
+    background: url(bg.png);
     display: flex;
     flex-direction: column;
     align-items: center;
